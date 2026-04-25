@@ -136,3 +136,14 @@ def main():
 
 if __name__ == "__main__":
 	main()
+git init
+git status
+git add .
+git commit -m "Initial project setup"
+git branch documentation
+git branch refactoring
+git branch
+
+
+
+
